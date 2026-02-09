@@ -52,8 +52,4 @@ All persistence and execution are controlled locally by the server.
 
 - install-windows.bat
 
-### Kali Linux
 
-```bash
-chmod +x install-kali.sh
-./install-kali.sh
