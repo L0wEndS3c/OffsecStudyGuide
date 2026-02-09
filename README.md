@@ -23,11 +23,9 @@ All data is stored locally in SQLite. Nothing is sent to external services beyon
 ## File Locations
 
 Data
-- Linux: ~/.offsec-mcp/data.db
 - Windows: %USERPROFILE%\.offsec-mcp\data.db
 
 Config
-- Linux: ~/.config/Claude/claude_desktop_config.json
 - Windows: %APPDATA%\Claude\claude_desktop_config.json
 
 ---
