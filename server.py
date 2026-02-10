@@ -1,3 +1,5 @@
+# Created February 9, 2026
+# created by L0wEndS3c
 #!/usr/bin/env python3
 """
 OffSec Learning MCP Server
